@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Rajput</h1>
 <h3 align="center">A passionate young developer from India</h3>
 
-- 🔭 I’m currently working on **Netflix clone**
 
 - 🌱 I’m currently learning **React JS, Graphic designing**
 
 - 📫 How to reach me **adityarajput.182009@gmail.com**
 
-- ⚡ Fun fact **I have not decided my fixed goal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
