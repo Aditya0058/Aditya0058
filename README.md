@@ -8,8 +8,10 @@
 </div>
 
 ---
+<div align="center">
+  # ⚡ Tech Stack
+</div>
 
-# ⚡ Tech Stack
 
 <p align="center">
 
