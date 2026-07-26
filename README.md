@@ -9,18 +9,6 @@
 
 ---
 
-# 💫 About Me
-
-```txt
-🧠 Learning every single day
-💻 Java • DSA • Web Development
-🤖 Exploring AI & Automation
-🚀 Building SaaS Projects
-🌍 Open Source Enthusiast
-```
-
----
-
 # ⚡ Tech Stack
 
 <p align="center">
@@ -29,15 +17,3 @@
 
 </p>
 
----
-
-# 🎯 2026 Goals
-
-* 🚀 Build real SaaS products
-* 🔥 Reach 500+ DSA problems
-* 🌍 Contribute to Open Source
-* 💼 Land amazing software opportunities
-* 💰 Build products that generate income
-
----
-  
