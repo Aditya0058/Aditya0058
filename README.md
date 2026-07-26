@@ -9,8 +9,6 @@
 
 ---
 
-
-
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,flask,html,css,js,react,nodejs,mongodb,git,github,vscode,linux,arch,figma"/>
@@ -21,3 +19,7 @@
 <img src="https://skillicons.dev/icons?i=bash,vim,docker,vite,tailwind"/>
 
 </p>
+
+<h1 align="center">
+Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Aditya Rajput
+</h1>
