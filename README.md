@@ -2,7 +2,7 @@
 
 # Hey 👋 I'm Aditya Rajput
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=17+y%2Fo+Developer;Building+Cool+Stuff;Learning+AI+%7C+Java+%7C+Web+Development;Future+SaaS+Founder;One+Life.+Build+Something+Legendary.">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=17+y%2Fo+Developer;Learning+Java+%26+DSA;Building+Cool+Web+Apps;Exploring+AI+%26+Automation;Future+SaaS+Founder;Open+Source+Learner;Problem+Solver;Always+Curious;Turning+Ideas+Into+Code;Building+Every+Single+Day;One+Life.+Build+Something+Legendary."/>
 
 
 </div>
@@ -21,3 +21,6 @@
 </p>
 
 > Lets' Connect
+
+
+
