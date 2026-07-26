@@ -13,7 +13,11 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,flask,html,css,js,react,nodejs,mongodb,git,github,vscode,linux,arch,figma,bash,vim,docker,vite,tailwind"/>
+<img src="https://skillicons.dev/icons?i=java,python,flask,html,css,js,react,nodejs,mongodb,git,github,vscode,linux,arch,figma"/>
 
 </p>
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=bash,vim,docker,vite,tailwind"/>
+
+</p>
