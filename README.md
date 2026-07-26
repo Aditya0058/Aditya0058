@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya0058&theme=tokyonight&margin-w=15&no-frame=true"/>
 
 </p>
 
