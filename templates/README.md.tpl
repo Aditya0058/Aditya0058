@@ -19,6 +19,8 @@
 <img src="https://skillicons.dev/icons?i=bash,vim,docker,vite,tailwind"/>
 
 </p> -->
-{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
+## 💻 Coding Activity
+
+{{ wakatimeData.Languages | wakatimeCategoryBar 5 }}
 
 > Lets' Connect
