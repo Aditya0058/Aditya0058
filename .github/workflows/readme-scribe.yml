@@ -1,32 +1,26 @@
-name: Update README (v2)
+name: Update README
 
 on:
-  push:
+  workflow_dispatch:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 * * * *"
 
 jobs:
-  markscribe:
+  update:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
 
-      - uses: taciturnaxolotl/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
+      - uses: charmbracelet/readme-scribe@master
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
-
-      - uses: stefanzweifel/git-auto-commit-action@v5
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_URL: https://hackatime.hackclub.com/api/hackatime/v1
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: Update generated README
-          branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_message: "chore: update README"
