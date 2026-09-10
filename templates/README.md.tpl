@@ -21,6 +21,6 @@
 </p> -->
 ## 💻 Coding Activity
 
-{{ wakatimeData.Languages | wakatimeCategoryBar 5 }}
+{{ wakatimeCategoryBar 5 }}
 
 > Lets' Connect
