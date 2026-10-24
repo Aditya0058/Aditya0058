@@ -19,6 +19,9 @@
 <img src="https://skillicons.dev/icons?i=bash,vim,docker,vite,tailwind"/>
 
 </p> 
+
+![Hackatime Stats](https://raw.githubusercontent.com/Aditya0058/REPOSITORY/main/assets/hackatime-glass.svg)
+
 <!-- {{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}-->
 
 > Lets' Connect
