@@ -9,7 +9,7 @@
 
 ---
 
- <p align="center">
+ <!-- <p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,flask,html,css,js,react,nodejs,mongodb,git,github,vscode,linux,arch,figma"/>
 
@@ -18,7 +18,7 @@
 
 <img src="https://skillicons.dev/icons?i=bash,vim,docker,vite,tailwind"/>
 
-</p> 
+</p>  -->
 
 ![Hackatime Stats](https://raw.githubusercontent.com/Aditya0058/Aditya0058/main/assets/hackatime-glass.svg)
 
