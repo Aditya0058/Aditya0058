@@ -20,7 +20,7 @@
 
 </p> 
 
-![Hackatime Stats](https://raw.githubusercontent.com/Aditya0058/REPOSITORY/main/assets/hackatime-glass.svg)
+![Hackatime Stats](https://raw.githubusercontent.com/Aditya0058/Aditya0058/main/assets/hackatime-glass.svg)
 
 <!-- {{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}-->
 
